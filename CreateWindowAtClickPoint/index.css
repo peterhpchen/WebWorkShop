@@ -1,0 +1,8 @@
+#floatingWindow {
+    height: 300px;
+    width: 300px;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: blue;
+}
